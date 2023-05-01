@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# test5
+# test6
 
 class Dict(dict):
     '''
